@@ -1,5 +1,5 @@
 # Papers
-This is the repository with replication codes for my papers.
+This is the repository with my papers.
 
 ## Suggested citation
 
